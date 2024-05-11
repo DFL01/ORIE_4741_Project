@@ -1,6 +1,7 @@
 # Traffic Flow Prediction for NYC's Broadway Avenue
 
 #### Project Member: Diego Fernandez (df356)
+#### Class Code: ORIE 4160
 
 ## Project Description:
 Throughout the report we will perform an analysis of traffic flow in New York City's Broadway area, with a focus on predicting daily traffic volumes. 
